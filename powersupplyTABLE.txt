@@ -1,0 +1,13 @@
+P101,Corsair,Corsair CV450, CV Series 80 Plus Bronze Certified Power Supply,450W,250,3350
+P102,Corsair,Corsair CV550, CV Series 80 Plus Bronze Certified Power Supply,550W,250,3850
+P103,Corsair,Corsair CV650, CV Series 80 Plus Bronze Certified Power Supply,650W,250,4700
+P104,Corsair,Corsair VS500 80 Plus ATX Power Supply,500W,250,3150
+P105,Cooler Master,Cooler Master MWE 450 Bronze V2 80 Plus Bronze Certified Power Supply,450W,300,3300
+P106,Cooler Master,Cooler Master MWE 550 Bronze V2 80 Plus Bronze Certified Power Supply,550W,300,4000
+P107,Cooler Master,Cooler Master MWE 650 Bronze V2 80 Plus Bronze Certified Power Supply,650W,300,5000
+P108,Cooler Master,Cooler Master MWE 750 Bronze V2 80 Plus Bronze Certified Power Supply,750W,300,6300
+P109,Cooler Master,Cooler Master MWE 650 Gold V2 80 Plus Gold Certified Power Supply,650W,300,8000
+P110,Cooler Master,Cooler Master MWE 750 Gold V2 80 Plus Gold Certified Power Supply,750W,300,9200
+P111,Cooler Master,Cooler Master MWE 850 Gold V2 80 Plus Gold Certified Power Supply,850W,300,10300
+P112,Cooler Master,Cooler Master MWE 1050 Gold V2 80 Plus Gold Certified Power Supply,1050W,300,16800
+P113,Cooler Master,Cooler Master MWE 1250 Gold V2 80 Plus Gold Certified Power Supply,1250W,300,20600
